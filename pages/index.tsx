@@ -15,7 +15,7 @@ const Home = ({
   }[];
 }) => {
   return (
-    <div>
+    <div className={styles.container}>
       <Head>
         <title>Koo</title>
       </Head>
